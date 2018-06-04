@@ -1,4 +1,4 @@
-# Toy examples presented at the 2018 SSC annual meeting in Montreal
+## Toy examples presented at the 2018 SSC annual meeting in Montreal
 
 To run the variational auto-encoder, you must download [the fashion-mnist dataset](https://github.com/zalandoresearch/fashion-mnist) in your working directory.
 
